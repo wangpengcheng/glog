@@ -1,0 +1,30 @@
+[  4%] Building CXX object CMakeFiles/glog.dir/src/logging.cc.o
+[  9%] Building CXX object CMakeFiles/glog.dir/src/demangle.cc.o
+[ 13%] Building CXX object CMakeFiles/glog.dir/src/raw_logging.cc.o
+[ 18%] Building CXX object CMakeFiles/glog.dir/src/symbolize.cc.o
+[ 22%] Building CXX object CMakeFiles/glog.dir/src/utilities.cc.o
+[ 27%] Building CXX object CMakeFiles/glog.dir/src/vlog_is_on.cc.o
+[ 31%] Building CXX object CMakeFiles/glog.dir/src/signalhandler.cc.o
+[ 36%] Linking CXX static library libglogd.a
+[ 36%] Built target glog
+[ 40%] Building CXX object CMakeFiles/signalhandler_unittest.dir/src/signalhandler_unittest.cc.o
+[ 45%] Building CXX object CMakeFiles/stl_logging_unittest.dir/src/stl_logging_unittest.cc.o
+[ 50%] Linking CXX executable signalhandler_unittest
+[ 50%] Built target signalhandler_unittest
+[ 54%] Building CXX object CMakeFiles/stacktrace_unittest.dir/src/stacktrace_unittest.cc.o
+[ 59%] Linking CXX executable stacktrace_unittest
+[ 59%] Built target stacktrace_unittest
+[ 63%] Building CXX object CMakeFiles/demangle_unittest.dir/src/demangle_unittest.cc.o
+[ 68%] Linking CXX executable stl_logging_unittest
+[ 68%] Built target stl_logging_unittest
+[ 72%] Building CXX object CMakeFiles/logging_unittest.dir/src/logging_unittest.cc.o
+[ 77%] Linking CXX executable demangle_unittest
+[ 77%] Built target demangle_unittest
+[ 81%] Building CXX object CMakeFiles/symbolize_unittest.dir/src/symbolize_unittest.cc.o
+[ 86%] Linking CXX executable symbolize_unittest
+[ 86%] Built target symbolize_unittest
+[ 90%] Building CXX object CMakeFiles/utilities_unittest.dir/src/utilities_unittest.cc.o
+[ 95%] Linking CXX executable logging_unittest
+[ 95%] Built target logging_unittest
+[100%] Linking CXX executable utilities_unittest
+[100%] Built target utilities_unittest
